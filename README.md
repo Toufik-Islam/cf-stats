@@ -6,16 +6,13 @@
 </a>
 <br/>
 <a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" />
+<img src="https://raw.githubusercontent.com/Toufik-Islam/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/Toufik-Islam/cf-stats/main/output/rating.svg" />
 </a>
 
 # Installation
 
 ### For step-by-step screenshots go [here](docs/INSTALLATIONSTEPS.md) 
-### Video Demonstration
-  - [Hindi](https://www.youtube.com/watch?v=lPASqH0ZoIc)
-
 1. Star this repository :pray:
 2. Create a copy of this repository by clicking
    [here](https://github.com/sudiptob2/cf-stats/generate). Note: this is
